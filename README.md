@@ -76,7 +76,7 @@ git commit -m "Initial commit: SA Local RAG System with offline LLM support"
 
 # Add your GitHub repository as remote
 # Replace YOUR_USERNAME with your actual GitHub username
-git remote add origin https://github.com/YOUR_USERNAME/sa-rag-system.git
+git remote add origin https://github.com/skii-bee/sa-rag-system.git
 
 # Push to GitHub
 git branch -M main
